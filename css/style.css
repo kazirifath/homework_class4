@@ -1,0 +1,8 @@
+p{
+			color:blue; font-size:25px; 
+		}
+
+		body{ background-image: url(https://images.unsplash.com/photo-1508615039623-a25605d2b022?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80); }
+p{ border: 5px solid red; 
+ }
+a.center { text-align: center; }
